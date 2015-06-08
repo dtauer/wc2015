@@ -15,7 +15,8 @@ CodePen Collection: http://codepen.io/collection/njbwxk/
 - [requestAnimationFrame Tutorial](http://creativejs.com/resources/requestanimationframe/)
 - [Greensock](https://greensock.com/)
 - [Greensock Cheatsheet](https://ihatetomatoes.net/greensock-cheat-sheet/)
-- 
+ 
+
 ####Other Resources
 - [CSS Centering Guide](https://css-tricks.com/centering-css-complete-guide/)
 - [MDN Web Documentation](https://developer.mozilla.org/en-US/docs/Web)
