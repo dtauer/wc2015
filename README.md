@@ -10,6 +10,7 @@ CodePen Collection: http://codepen.io/collection/njbwxk/
 
 ####Resources
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions
+- https://css-tricks.com/centering-css-complete-guide/
 - https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations
 - https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
 - http://creativejs.com/resources/requestanimationframe/
