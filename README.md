@@ -8,14 +8,18 @@ This repository contains resources for my 2015 Working Connections sessions on W
 
 CodePen Collection: http://codepen.io/collection/njbwxk/
 
-####Resources
-- https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions
-- https://css-tricks.com/centering-css-complete-guide/
-- https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations
-- https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame
-- http://creativejs.com/resources/requestanimationframe/
-- https://greensock.com/
-- https://ihatetomatoes.net/greensock-cheat-sheet/
+####Animation Resources
+- [CSS Transitions Documentation](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
+- [CSS Animation Documenation](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations)
+- [requestAnimationFrame](https://developer.mozilla.org/en-US/docs/Web/API/window/requestAnimationFrame)
+- [requestAnimationFrame Tutorial](http://creativejs.com/resources/requestanimationframe/)
+- [Greensock](https://greensock.com/)
+- [Greensock Cheatsheet](https://ihatetomatoes.net/greensock-cheat-sheet/)
+- 
+####Other Resources
+- [CSS Centering Guide](https://css-tricks.com/centering-css-complete-guide/)
+- [MDN Web Documentation](https://developer.mozilla.org/en-US/docs/Web)
+- [Cubic Bezier](http://cubic-bezier.com/)
 
 ## Mastering jQuery
 
