@@ -16,6 +16,6 @@ CodePen Collection: http://codepen.io/collection/njbwxk/
 - https://greensock.com/
 - https://ihatetomatoes.net/greensock-cheat-sheet/
 
-## Web Animation
+## Mastering jQuery
 
 Coming Wednesday :)
