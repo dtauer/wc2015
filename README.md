@@ -7,6 +7,7 @@ This repository contains resources for my 2015 Working Connections sessions on W
 ## Web Animation
 
 CodePen Collection: http://codepen.io/collection/njbwxk/
+Divshot Project: http://development.wc2015.divshot.io/
 
 ####Animation Resources
 - [CSS Transitions Documentation](https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_transitions)
