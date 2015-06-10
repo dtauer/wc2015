@@ -33,6 +33,9 @@ CodePen Collection: http://codepen.io/collection/DZMymo/
 - [JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery Learning Center ](http://learn.jquery.com/)
 - [CSS Specificity](http://www.standardista.com/css3/css-specificity/)
+- [Girl Scouts Web Project](http://seesparkbox.com/foundry/how_to_teach_teens_and_pre_teens_to_build_a_website)
+ 
+
  
 
  
