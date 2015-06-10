@@ -27,4 +27,14 @@ Divshot Project: http://development.wc2015.divshot.io/
 
 ## Mastering jQuery
 
-Coming Wednesday :)
+CodePen Collection: http://codepen.io/collection/DZMymo/
+
+####Resources
+- [JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [jQuery Learning Center ](http://learn.jquery.com/)
+ 
+
+
+
+
+
