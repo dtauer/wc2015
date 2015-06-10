@@ -32,6 +32,9 @@ CodePen Collection: http://codepen.io/collection/DZMymo/
 ####Resources
 - [JavaScript on MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [jQuery Learning Center ](http://learn.jquery.com/)
+- [CSS Specificity](http://www.standardista.com/css3/css-specificity/)
+ 
+
  
 
 
