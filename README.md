@@ -34,6 +34,10 @@ CodePen Collection: http://codepen.io/collection/DZMymo/
 - [jQuery Learning Center ](http://learn.jquery.com/)
 - [CSS Specificity](http://www.standardista.com/css3/css-specificity/)
 - [Girl Scouts Web Project](http://seesparkbox.com/foundry/how_to_teach_teens_and_pre_teens_to_build_a_website)
+- [jQuery Tab Tutorial](http://inspirationalpixels.com/tutorials/creating-tabs-with-html-css-and-jquery)
+- [jQuery Accordion Tutorial](http://inspirationalpixels.com/tutorials/creating-an-accordion-with-html-css-jquery)
+
+
  
 
  
