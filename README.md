@@ -36,6 +36,14 @@ CodePen Collection: http://codepen.io/collection/DZMymo/
 - [Girl Scouts Web Project](http://seesparkbox.com/foundry/how_to_teach_teens_and_pre_teens_to_build_a_website)
 - [jQuery Tab Tutorial](http://inspirationalpixels.com/tutorials/creating-tabs-with-html-css-and-jquery)
 - [jQuery Accordion Tutorial](http://inspirationalpixels.com/tutorials/creating-an-accordion-with-html-css-jquery)
+- [Creating a Plugin](http://blog.teamtreehouse.com/writing-your-own-jquery-plugins)
+- [jQuery Book](https://www.packtpub.com/web-development/learning-jquery-fourth-edition)
+- [YouMightNotNeedjQuery.com](http://youmightnotneedjquery.com/)
+
+####Friday
+- [Sticky Notes App](http://www.paulund.co.uk/playground/demo/css_sticky_notes/)
+- [Accordion Widget](http://demos.inspirationalpixels.com/Accordion-with-HTML-CSS-&-jQuery/)
+- [Play with jQuery UI](http://jqueryui.com/)
 
 
  
