@@ -41,7 +41,7 @@ CodePen Collection: http://codepen.io/collection/DZMymo/
 - [YouMightNotNeedjQuery.com](http://youmightnotneedjquery.com/)
 
 ####Friday
-- [Sticky Notes App](http://www.paulund.co.uk/playground/demo/css_sticky_notes/)
+- [Sticky Notes App](http://www.paulund.co.uk/create-sticky-notes-to-do-list-in-css-and-jquery)
 - [Accordion Widget](http://demos.inspirationalpixels.com/Accordion-with-HTML-CSS-&-jQuery/)
 - [Play with jQuery UI](http://jqueryui.com/)
 
